@@ -1,5 +1,5 @@
 ﻿{
-    "connectionString": "mongodb://localhost:27017/meanie",
+    "connectionString": "mongodb://dinushka:Rtir3mEjCTr2cmp@cluster0-shard-00-00.j6sjh.mongodb.net:27017,cluster0-shard-00-01.j6sjh.mongodb.net:27017,cluster0-shard-00-02.j6sjh.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-e3vjyn-shard-0&authSource=admin&retryWrites=true&w=majority",
     "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
     "contactEmail": "REPLACE THIS WITH YOUR EMAIL ADDRESS",
     "googleAnalyticsAccount": "UA-XXXXXXXX-X"
